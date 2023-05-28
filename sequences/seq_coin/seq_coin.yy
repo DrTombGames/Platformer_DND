@@ -24,8 +24,8 @@
     "Keyframes": [],
   },
   "parent": {
-    "name": "Animation Curves",
-    "path": "folders/Animation Curves.yy",
+    "name": "Sequences",
+    "path": "folders/Sequences.yy",
   },
   "playback": 1,
   "playbackSpeed": 60.0,

@@ -1,3 +1,12 @@
+/// @DnDAction : YoYo Games.Instances.Set_Sprite
+/// @DnDVersion : 1
+/// @DnDHash : 2F6650B2
+/// @DnDArgument : "imageind_relative" "1"
+/// @DnDArgument : "spriteind" "spr_player_run_right"
+/// @DnDSaveInfo : "spriteind" "spr_player_run_right"
+sprite_index = spr_player_run_right;
+image_index += 0;
+
 /// @DnDAction : YoYo Games.Collisions.If_Object_At
 /// @DnDVersion : 1.1
 /// @DnDHash : 6B90DF32

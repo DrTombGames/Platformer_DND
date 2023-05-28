@@ -1,1 +1,40 @@
-DrTomb_Platformer_DND_v1.01
+----------------------------------
+DrTomb_Platformer_DND_v1.02
+----------------------------------
+
+Player
+	• Collects Coins
+
+Enemy
+	• Damages Player
+
+Deaths
+	• Falling Death: Sfx, Particles
+
+----------------------------------
+To Do List
+----------------------------------
+
+Player Attack
+Player Projectiles
+
+
+----------------------------------
+Sprites Information and Credit
+----------------------------------
+
+Player Sprites
+https://opengameart.org/content/witch-0
+
+Player Attack Effect
+https://opengameart.org/content/monster-girl
+
+
+----------------------------------
+Notice
+----------------------------------
+This is offered for free with no garrentee or
+resposibility for anything that comes from using this.
+
+Also, if you wanna through me some money feel free, but
+
